@@ -19,3 +19,4 @@ If I continue working on this project, I’d like to:
 🗂️ Allow users to create and share custom image collections
 🛰️ Display more info about celestial objects and space missions
 ⚙️ Add lazy loading and improve error handling for a smoother experience
+<img width="1153" alt="Screenshot 2025-05-22 at 1 23 19 PM" src="https://github.com/user-attachments/assets/bacaac0b-865c-4665-8ce8-a43396820213" />
